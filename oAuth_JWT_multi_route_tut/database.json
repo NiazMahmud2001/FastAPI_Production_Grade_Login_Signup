@@ -1,0 +1,15 @@
+{
+    "ALL_SESSION_ID": [
+        -1,
+        -1,
+        0
+    ],
+    "niaz__mahmud": {
+        "user_session_id": 0,
+        "password": "$2b$12$g2SYRx9mf1Wf5wDevE6FXOIvAM1DhcuQb2IkGm2r.kLSPP6IX/zVu",
+        "userDescription": "sdfa sdf asdf asdf asd",
+        "userEmail": "niaz@gmail.com",
+        "age": 18,
+        "gender": "Male"
+    }
+}
