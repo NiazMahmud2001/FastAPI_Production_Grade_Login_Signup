@@ -236,7 +236,3 @@ This is tutorial code. Before anything resembling production:
 - Return an identical error for "user not found" and "wrong password" so the API can't be used to enumerate accounts.
 
 ---
-
-## License
-
-MIT
